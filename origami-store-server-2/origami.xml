@@ -1,0 +1,16 @@
+<OrigamiRecordsWrapper>
+    <origamiRecords>
+        <origamiRecords>
+            <name>horse</name>
+            <stepsCount>25</stepsCount>
+        </origamiRecords>
+        <origamiRecords>
+            <name>dog</name>
+            <stepsCount>20</stepsCount>
+        </origamiRecords>
+        <origamiRecords>
+            <name>cat</name>
+            <stepsCount>11</stepsCount>
+        </origamiRecords>
+    </origamiRecords>
+</OrigamiRecordsWrapper>
